@@ -1,0 +1,6 @@
+C:\BowlingGame\BowlingGame\bin\Debug\BowlingGame.exe.config
+C:\BowlingGame\BowlingGame\bin\Debug\BowlingGame.exe
+C:\BowlingGame\BowlingGame\bin\Debug\BowlingGame.pdb
+C:\BowlingGame\BowlingGame\obj\Debug\BowlingGame.csprojResolveAssemblyReference.cache
+C:\BowlingGame\BowlingGame\obj\Debug\BowlingGame.exe
+C:\BowlingGame\BowlingGame\obj\Debug\BowlingGame.pdb
